@@ -1,0 +1,85 @@
+{
+    "DragonBallZ":[
+    {
+	    "id" : 1,
+        "name" : "Goku",
+        "Race" : "Saiyan",
+        "Residence" : "Earth",
+		"PowerLevel" : 1000000
+    },
+
+    {
+	     "id" : 2,
+        "name" : "Beerus",
+        "Race" : "God Of Distruction",
+        "Residence" : "God's Place",
+		"PowerLevel" : 100000000
+    },
+
+    {
+		"id" : 3,
+	    "name" : "Jiren",
+        "Race" : "Alien",
+        "Residence" : "Universe 11",
+		"PowerLevel" : 1000000
+    },
+
+    {
+		"id" : 4,
+        "name" : "Yamcha",
+        "Race" : "Earthling",
+        "Residence" : "Earth",
+		"PowerLevel" : 1000
+    },
+
+    {
+		"id" : 5,
+       "name" : "Picolo",
+        "Race" : "Namekian",
+        "Residence" : "Earth",
+		"PowerLevel" : 50000
+    },
+
+    {
+		"id" : 6,
+        "name" : "King Kai",
+        "Race" : "Alien",
+        "Residence" : "North Kai Planet",
+		"PowerLevel" : 1000
+    },
+
+    {
+		"id" : 7,
+        "name" : "Vegeta",
+        "Race" : "Saiyan",
+        "Residence" : "Earth",
+		"PowerLevel" : 1000000
+    },
+	
+	{
+		"id" : 8,
+        "name" : "Trunks",
+        "Race" : "Saiyan",
+        "Residence" : "Earth",
+		"PowerLevel" : 50000
+    },
+	
+	{
+		"id" : 9,
+        "name" : "Gotan",
+        "Race" : "Saiyan",
+        "Residence" : "Earth",
+		"PowerLevel" : 50000
+    },
+	
+	{
+		"id" : 10,
+        "name" : "Black Goku",
+        "Race" : "Alien",
+        "Residence" : "Universe 11",
+		"PowerLevel" : 1000000
+    }
+    
+    
+    ]
+ }

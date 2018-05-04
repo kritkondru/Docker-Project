@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+
+</head>
+<body style="">
+        
+      
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">ID</th>
+                <th scope="col">Name</th>
+                <th scope="col">Race</th>
+				<th scope="col">Residence</th>
+				<th scope="col">PowerLevel</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for i in list_data %}
+
+        <tr>
+            <td scope="row"> {{ i.id }} </td>
+            <td scope="row"> {{ i.name }} </td>
+            <td scope="row"> {{ i.Race }} </td>
+			<td scope="row"> {{ i.Residence }} </td>
+			<td scope="row"> {{ i.PowerLevel }} </td>
+        </tr>
+        {% endfor %}
+        </tbody>    
+    </table>
+
+</body>
+</html>
